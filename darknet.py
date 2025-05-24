@@ -43,6 +43,8 @@ def main():
         os.system("python3 modules/cms_scanner.py")
     elif choice == "5":
         os.system("python3 modules/ddos_advanced.py")
+    elif choicce == "6":
+        os.system("python3 modules/bypass_fuzzer.py")
     elif choice == "0":
         exit()
     else:
