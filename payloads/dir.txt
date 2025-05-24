@@ -1,1 +1,10 @@
-
+admin
+login
+config
+uploads
+backup
+test
+api
+.git
+.env
+robots.txt
