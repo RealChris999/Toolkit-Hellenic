@@ -42,7 +42,7 @@ def main():
     elif choice == "4":
         os.system("python3 modules/cms_scanner.py")
     elif choice == "5":
-        os.system("python3 modules/ddos_tool.py")
+        os.system("python3 modules/ddos_advanced.py")
     elif choice == "0":
         exit()
     else:
