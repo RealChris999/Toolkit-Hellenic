@@ -24,6 +24,7 @@ menu = """
 [3] Directory Brute Forcer
 [4] CMS Vulnerability Scanner
 [5] DDoS Test Tool
+[6] Bypass fuzzer
 [0] Exit
 """
 
